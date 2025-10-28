@@ -21,20 +21,6 @@ Bu uygulama, 6 farklı gelişmiş sıralama algoritmasını görselleştirmenize
 - 🎨 **Modern UI** - Karanlık tema ve responsive tasarım
 - 💾 **CSV dışa aktarma** - Sonuçlarınızı kaydedin
 
----
-
-## 🛠 Desteklenen Algoritmalar
-
-| Algoritma | Zaman Karmaşıklığı | Özellik |
-|-----------|-------------------|---------|
-| **TimSort** | O(n log n) | 🔄 Adaptif - Python'un varsayılan algoritması |
-| **IntroSort** | O(n log n) | ⚡ Hibrit - QuickSort + HeapSort + InsertionSort |
-| **RadixSort** | O(nk) | 🔢 Karşılaştırmasız - Basamak basamak sıralama |
-| **Cache-Oblivious** | O(n log n) | 💾 Önbellek verimli - Modern CPU'lara optimize |
-| **Adaptive MergeSort** | O(n log n) | 📊 Adaptif - Kısmen sıralı verilerde hızlı |
-| **SmoothSort** | O(n log n) | 🧩 Adaptif - HeapSort'un gelişmiş versiyonu |
-
----
 
 ## 📥 Kurulum
 
@@ -92,21 +78,7 @@ algoritma_karsilastirma/
 └── results/                    # Analiz sonuçları
 ```
 
----
 
-## 🚀 GitHub'a Yükleme
-
-```bash
-# Git başlat
-git init
-git add .
-git commit -m "🎉 İlk commit: Sıralama algoritmaları projesi"
-
-# GitHub'da yeni repository oluşturun, ardından:
-git remote add origin https://github.com/kullaniciadi/algoritma_karsilastirma.git
-git branch -M main
-git push -u origin main
-```
 
 ---
 
