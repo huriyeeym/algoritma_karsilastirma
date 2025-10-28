@@ -1,0 +1,3 @@
+# Bu dosya, results klasörünün Git'e dahil edilmesi için tutulur
+# CSV dosyaları .gitignore ile ignore edilir ama klasör yapısı korunur
+
